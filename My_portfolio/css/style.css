@@ -1,0 +1,59 @@
+/**{
+    border: 1px solid red !important;
+}*/
+
+img, video, embed, object{
+    max-width: 100%;
+}
+
+/**{
+    font-family: 'Lato', sans-serif;
+}
+*/
+body {
+background: url('http://cdn.wallpapersafari.com/50/10/e8s7W2.jpg');
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+
+.title{
+    padding-top: 50px;
+    font-family: 'Lato', sans-serif;
+    text-align: -webkit-right;
+    font-weight: 100;
+    font-size: 3.5em;
+}
+
+.sub{
+    font-family: 'Lato', sans-serif;
+    text-align: -webkit-right;
+    font-weight: bolder;
+    font-size: larger;
+}
+
+hr {
+  -webkit-border-bottom-colors: none;
+  -webkit-border-image: none;
+  -webkit-border-left-colors: none;
+  -webkit-border-right-colors: none;
+  -webkit-border-top-colors: none;
+  border-color: #EEEEEE -moz-use-text-color #FFFFFF;
+  border-style: solid none;
+  border-width: 1px 0;
+  margin: 18px 0;
+}
+.title3{
+    font-family: 'Lato', sans-serif;
+    /*color: #747704;*/
+    text-align: -webkit-center;
+    font-weight: bolder;
+}
+
+.modal_title1{
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+    font-weight: bold;
+    font-size: 2.5em;
+}
